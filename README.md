@@ -1,6 +1,8 @@
 # rcos-github-workshop
-Come learn! HEHE
+Come learn!
 
-Contributions from: [
+Contributors: [
 	Ethan Whitton
+
+Contribution - Mahmoud
 ]
