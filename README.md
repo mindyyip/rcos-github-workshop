@@ -1,6 +1,6 @@
 # rcos-github-workshop
 Come learn!
 
-Contributors {
-
-}
+Contributors: [
+	Ethan Whitton
+]
