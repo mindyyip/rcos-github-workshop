@@ -2,5 +2,5 @@
 Come learn!
 
 Contributors: [
-
+	Ethan Whitton
 ]
