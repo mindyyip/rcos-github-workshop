@@ -1,5 +1,5 @@
 # rcos-github-workshop
-Come learn! UHOH! MERGE CONFLICT
+Come learn! HEHE
 
 Contributions from: [
 	Ethan Whitton
